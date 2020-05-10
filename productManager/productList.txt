@@ -1,0 +1,4 @@
+001,Java,250000,true,Bài giảng về ngôn ngữ Java
+002,Js,150000,true,Bài giảng về ngôn ngữ JavaScipt
+003,Python,200000,true,Bài giảng về ngôn ngữ Python
+004,C++,100000,true,Bài giảng về ngôn ngữ C++
